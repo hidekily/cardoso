@@ -1,0 +1,226 @@
+*{
+    margin: 0%;
+    padding: 0%;
+
+}
+#nav{
+    display: flex;
+    flex-direction: row;
+    gap: 0px;
+    background-color: #024959;
+    justify-content: center;
+    height: 150px ;
+    margin-bottom: 0px;
+    
+}
+#Título{
+    background-color:#024959;
+    width: 400px;
+    height: 100px;
+    padding-top: 20px;
+    align-items: center;
+    color: white;
+    margin-top: 20px;
+    font-size:30px;
+}
+#TextoInicial{
+    margin-left: 60px;
+    margin-top: 0%;
+}
+#container{
+    display: flex;
+    flex-direction: row;
+    gap: 0px;
+    justify-content: center;
+    height: 650px ;
+    margin-top: 150px;
+}
+#padaria{
+    border: 3px solid black;
+    width: 500px;
+    height: 450px;
+
+}
+#padaria:hover{
+    transition: 1s;
+    transform: scale(150%);
+    border: 1px solid #026773; 
+}
+
+#descpad{
+    margin-left: 50px;
+    text-align: center;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #024959;
+    
+}
+#container2{
+    display: flex;
+    flex-direction: row;
+    gap: 0px;
+    justify-content: center;
+    height: 650px ;
+    margin-top: 150px;
+}
+#Figma{
+    border: 3px solid black;
+    width: 500px;
+    height: 450px;
+
+}
+#Figma:hover{
+    transition: 1s;
+    transform: scale(150%);
+    border: 1px solid #026773; 
+}
+#descfigma{
+    margin-left: 50px;
+    text-align: center;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #024959;
+    
+}
+#Atimpor{
+    margin-top: 40px;
+    text-align: center;
+    color: #024959;
+}
+#container3{
+    display: flex;
+    flex-direction: row;
+    gap: 0px;
+    justify-content: center;
+    height: 650px ;
+    margin-top: 150px;
+}
+#bus{
+    width: 500px;
+    height: 450px;
+    border: 3px solid black;
+   
+}
+#bus:hover{
+    transition: 1s;
+    transform: scale(150%);
+    border: 1px solid #026773; 
+}
+
+#descbus{
+    margin-left: 50px;
+    text-align: center;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #024959;
+    
+}
+#desempnehoemgeral{
+    text-align: center;
+    color: #024959;
+    margin-top: 40px;
+    font-size: 30px;
+}
+#textodedesem{
+    text-align: center;
+    color: #024959;
+    margin-top: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 25px;
+}
+#titulofinal{
+    text-align: center;
+    color: #024959;
+    margin-top: 40px;
+    font-size: 30px;
+}
+#container4{
+    display: flex;
+    flex-direction: row;
+    gap: 0px;
+    justify-content: center;
+    height: 650px ;
+    margin-top: 150px;
+}
+#poesia{
+    width: 500px;
+    height: 450px;
+    border: 3px solid black;
+   
+}
+#poesia:hover{
+    transition: 1s;
+    transform: scale(150%);
+    border: 1px solid #026773; 
+}
+#descpoesia{
+    margin-left: 50px;
+    text-align: center;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #024959;
+    
+}
+#container5{
+    display: flex;
+    flex-direction: row;
+    gap: 0px;
+    justify-content: center;
+    height: 650px ;
+    margin-top: 150px;
+}
+#oculos{
+    width: 500px;
+    height: 450px;
+    border: 3px solid black;
+   
+}
+#oculos:hover{
+    transition: 1s;
+    transform: scale(150%);
+    border: 1px solid #026773; 
+}
+#descoculos{
+    margin-left: 50px;
+    text-align: center;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #024959;
+}
+#container6{
+    display: flex;
+    flex-direction: row;
+    gap: 0px;
+    justify-content: center;
+    height: 650px ;
+    margin-top: 150px;
+}
+#redação{
+    width: 500px;
+    height: 450px;
+    border: 3px solid black;
+   
+}
+#redação:hover{
+    transition: 1s;
+    transform: scale(150%);
+    border: 1px solid #026773; 
+}
+#descredação{
+    margin-left: 50px;
+    text-align: center;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #024959;
+}
+#palavrafinal{
+    margin-top: 40px;
+    text-align: center;
+    color: #024959;
+
+}
+#fim{
+    text-align: center;
+    color: #024959;;
+}
